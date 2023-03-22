@@ -1,1 +1,1 @@
-# auditory-tactile-local-global-paradigm
+# Auditory-tactile-local-global-paradigm
